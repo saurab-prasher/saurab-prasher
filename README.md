@@ -6,6 +6,16 @@
 ## 🚀 About Me
 I am a Full Stack Developer with over 4 years of experience in developing user-centric web applications. I specialize in JavaScript technologies, including React, Next.js, Node.js, and Express, with a strong emphasis on creating responsive and efficient web solutions.
 
+## 📚 Current Project I'm working on ->
+### NutriServe
+**Jan 2024 - Present**
+- **Description:** A scalable full-stack Next.js application for meal planning and subscriptions.
+- **Technologies:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT.
+- **Links:**
+  - [GitHub - Client](https://github.com/saurab-prasher/nutriserve-client)
+  - [Live Link - Client](https://nutriserve-client.vercel.app/)
+  - [GitHub - Server](https://github.com/saurab-prasher/nutriserve-server)
+
 ## 🛠️ Skills
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -41,12 +51,4 @@ I am a Full Stack Developer with over 4 years of experience in developing user-c
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 📚 Current Project I'm working on ->
-### NutriServe
-**Jan 2024 - Present**
-- **Description:** A scalable full-stack Next.js application for meal planning and subscriptions.
-- **Technologies:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT.
-- **Links:**
-  - [GitHub - Client](https://github.com/saurab-prasher/nutriserve-client)
-  - [Live Link - Client](https://nutriserve-client.vercel.app/)
-  - [GitHub - Server](https://github.com/saurab-prasher/nutriserve-server)
+
