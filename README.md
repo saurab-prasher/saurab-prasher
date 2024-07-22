@@ -1,4 +1,4 @@
-# Hi there, I'm Saurab Prasher 👋
+# Hi there, I'm Saurab Prasher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saurab-prasher-354965153/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-green)](https://saurab-prasher.github.io/)
